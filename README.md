@@ -3,8 +3,6 @@
 
 **Author:** Jack Pumpuni Frimpong-Manso  
 **GitHub:** [@pumpuni07](https://github.com/pumpuni07)  
-**LinkedIn:** [Jack Frimpong-Manso](https://www.linkedin.com/in/jack-pumpuni-frimpong-manso/)
-
 ---
 
 ## Repository Overview
